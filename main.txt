@@ -1,0 +1,3 @@
+API Response Time: 66ms
+Response 200 All Good
+make a http post request with the parameter code, more info in GitHub Repository.
